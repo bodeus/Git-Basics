@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 alert("uh-oh!")
+=======
+console. log("Hello World");
+console.log("here comes trouble");
+>>>>>>> trouble
